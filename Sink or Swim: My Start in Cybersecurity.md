@@ -1,95 +1,24 @@
-# 🌊 No Bottom in Sight  
-*May 9, 2025*
+No Bottom in Sight  
+April 25, 2025
 
-Lately, I haven’t been gaming.  
-Not because I’m too busy — but because the fire in me changed.  
+I haven’t been gaming lately. Not because I don’t love it — but because something in me shifted. Something quiet, but undeniable. There comes a point where distraction feels dishonest. You start looking at the hours you’ve spent trying to escape, and you realize you’re not just avoiding boredom — you’re avoiding yourself. So for the past couple of weeks, I’ve been sitting with that. With me. With where I am, and where I want to be. And I made a choice: to start swimming toward something that scares me — cybersecurity.
 
-For the past two weeks, I’ve been fully submerged in **cybersecurity**, trying to hold my breath and swim deeper.  
-But this field isn’t a swimming pool.  
-It’s the open ocean.  
-And if there’s a bottom? I wouldn’t be able to see it — not from here.
+At first, it felt exciting. Like starting a new game on the hardest difficulty. I thought I’d download some labs, spin up some virtual machines, maybe even pop a shell or two and feel like a hacker. But it didn’t take long for that illusion to crumble. Because cybersecurity isn’t something you just jump into. It’s not a skill — it’s a stack of disciplines, each with its own depth. You don’t just learn how to break into a system. You learn how it was built, why it’s vulnerable, how to defend it, how to recover it when it’s breached, and how to explain it to someone who’s never opened a terminal.
 
----
+This field is an ocean. And the further you go, the darker it gets. You start with IT fundamentals — operating systems, file systems, networking, permissions, support workflows. Then you dive into Windows internals, Active Directory, LDAP, GPOs, patching, account provisioning, identity federation. Then there’s the cloud: IAM roles, Azure AD, blob storage, key vaults, Terraform, misconfigurations. Add Linux, scripting, security frameworks, vulnerability management, monitoring tools, SIEMs, forensics, compliance, incident response, social engineering, zero-day exploits — the list doesn’t end. You study one thing and discover five more you’re missing. You feel like you’re making progress, but the ocean just gets wider.
 
-## 🧠 The Weight of the Water
+And here's what no one tells you when you're starting out: the knowledge is heavy, but it’s not the hardest part. What really crushes you is the silence. The part where you sit alone in your room, screen lit, exhausted, and still wondering why that script won’t run. The part where you spend two hours debugging a simple misconfiguration, only to realize it was one missing character in a config file. The part where you log onto LinkedIn and see people posting new certs, job offers, victories — and you feel like you're stuck in place, gasping for air while everyone else is flying.
 
-Security isn’t just hard.  
-It’s *dense*.  
-You don’t just learn tools — you learn systems.  
-You learn how everything breaks, why it breaks, how to defend it, and how to explain it all to people who barely speak your language.
+There’s no map for this. No straight path. Just you, trying not to sink under the weight of expectations — mostly your own. And on the worst days, you feel useless. You question why you ever thought you could do this. You wonder if you’re wasting your time, your potential, your future. You wonder if you should’ve picked something easier. Something with clear steps and predictable outcomes. Something where you could breathe.
 
-It’s the basics of IT — networking, OS concepts, sysadmin work, enterprise infrastructure.  
-Then it’s layered with identity, compliance, logging, threat detection, digital forensics.  
-And that’s before you even get to real-world pressure — where mistakes mean breached data, lost trust, actual consequences.
+But here’s the thing: I’ve already come too far to turn back. I’ve tasted what it feels like to make something work. To solve a problem on my own. To understand why an attack succeeded — and how to stop it next time. That feeling doesn’t happen often, but when it does, it’s electric. It’s like surfacing for a moment, just long enough to breathe, before going under again with purpose. And maybe that’s all this field is — swimming through a sea that doesn’t end, learning to survive in the depths.
 
-The deeper you go, the darker it gets.  
-And yet, you keep swimming.
+People talk about imposter syndrome like it’s a buzzword. For me, it’s the quiet panic that follows me into every project. It’s the voice that says “you’re not smart enough” when I open a new tool. It’s the doubt that creeps in when someone asks me to explain what I’m working on. And yet, I keep going. Not because I’m fearless — but because I refuse to let that voice win. I’ve failed enough times to know that failure isn’t the end. It’s the beginning of clarity. Of progress. Of strength.
 
----
+I’ve learned that security doesn’t reward perfection — it rewards endurance. The people who succeed aren’t always the smartest. They’re the ones who stayed in the water when it got cold. The ones who built their lungs, stroke by stroke. The ones who sank a hundred times, but kept rising.
 
-## 💾 This Isn't Just Tech — It’s Trust
+I won’t pretend to be there yet. I’m still deep in the current. Still figuring things out. Still overwhelmed. But now, when I feel like I’m drowning, I remind myself: this is how you grow. Not by floating — but by learning to move in the weight. There may not be a bottom to this ocean, but I’m not looking for one anymore. I’m not trying to reach the end. I’m trying to belong here. And every day I show up, I do.
 
-What we protect isn’t just 1s and 0s.  
-It’s **people’s secrets**.  
-It’s their lives in digital form.
+So if you’re reading this, and you feel like you’re barely keeping your head above water — keep swimming. Not for the certs. Not for the title. Not for the money. But because something inside you knows that this struggle means something. That who you become through it is worth the pain. That staying afloat — even when you’re gasping — is an act of defiance. And maybe, just maybe, you’ll learn to breathe down here like I’m trying to.
 
-We carry passwords, social security numbers, banking records, private conversations, medical reports — all of it fragile and all of it vital.  
-And the world trusts us — *expects us* — to keep that floodgate sealed.
-
-That pressure sits on your chest like water when you're too far from the surface.  
-And still… we dive.
-
----
-
-## 😔 The Quiet Drowning No One Talks About
-
-What no one prepares you for is how **lonely** it can feel.  
-You scroll through LinkedIn and see certs, titles, smiling posts.  
-But behind the scenes?
-
-- You’re second-guessing yourself daily  
-- You’re stuck in documentation that makes no sense  
-- You’re pushing through burnout just to feel “caught up”  
-- You’re swimming in circles, trying to find ground that doesn't exist  
-
-And then imposter syndrome hits like a rip current — invisible, fast, and unforgiving.
-
-Some days, I don’t feel like I’m learning.  
-I feel like I’m **drowning quietly** while everyone else floats.
-
----
-
-## 🪨 The Choice
-
-But here’s the part I keep coming back to:
-
-If you stay at the surface, you’ll never know what you're capable of.  
-If you want to find clarity, you have to go deeper.  
-Even when it hurts.  
-Even when your lungs are screaming.
-
-Because that pressure?  
-That resistance?  
-That’s where transformation happens.
-
----
-
-## ✍️ Final Note to Self (and Maybe You Too)
-
-This career doesn’t hand out life vests.  
-No one gives you air.  
-You learn to breathe differently — or you don’t survive.
-
-So I’m not here to coast.  
-I’m here to build a life, one brick at a time, even if I have to do it underwater.
-
-If you're out there, feeling the same weight?
-
-> You’re not weak for struggling.  
-> You’re not behind.  
-> You’re just swimming in a sea that was never meant to be easy.
-
-Keep going.  
-Even when there’s no bottom in sight.
-
-— Denney
+This field may never get easier. But I will get stronger. And I will keep going. Because I’ve chosen this ocean. And I’m learning to swim like I belong in it.
